@@ -186,7 +186,12 @@ main {
     }
   }
   .aboutDiv {
-    padding-bottom: 24px;
+    border: 1px #c0d1e3 solid;
+    border-radius: 14px;
+    padding: 23px;
+    box-shadow: 0px 2px 4px #99999970;
+    height: 348px;
+    overflow: hidden;
     h4 {
       text-align: center;
       font-size: 24px;
@@ -195,7 +200,7 @@ main {
       color: $color-a;
     }
     p {
-      @include maxLine(10);
+      @include maxLine(11);
       color: $color-text-2;
     }
   }
@@ -236,7 +241,7 @@ main {
       padding: 22px 12px;
       .progImg {
         height: auto;
-        width: 69px;
+        width: 55px;
         margin-bottom: 12px;
       }
       h4 {
@@ -332,11 +337,15 @@ main {
 .findHeroSection {
   background: $color-a;
   .title {
-    color: #fff;
+    color: $color-b;
     margin-bottom: 18px;
     font-size: 40px;
     line-height: 1.2;
     font-weight: 400;
+  }
+  p{
+    color: rgb(201, 201, 201);
+    margin-bottom: 12px;
   }
 }
 .photoGallerySection {

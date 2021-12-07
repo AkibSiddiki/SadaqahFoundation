@@ -9,10 +9,10 @@
                     <div class="col-md-4 col-sm-6 col-6 p-0 float-left mb-3">
                         <h5 class="mb-4 font-weight-bold text-uppercase">Programs</h5>
                         <ul class="list-group">
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Hunger Prevention <br> Program</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Amphan Disaster <br> Relief</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Corona Emergency <br> Relief</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Muslim Family <br> Services</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Hunger Prevention Program</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Amphan Disaster Relief</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Corona Emergency Relief</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Muslim Family Services</a></li>
                             <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Eid Gift</a></li>
                             <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="#">Ramadan Iftar</a></li>
                         </ul>
@@ -31,13 +31,19 @@
                         <h5 class="mb-4 font-weight-bold text-uppercase">Connect</h5>
                         <ul class="list-group">
                             <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-                                <a href="#"><i class="fa fa-twitter mr-1"></i> Twitter</a>
+                                <a href="#"><i class="fab fa-twitter mr-1"></i> Twitter</a>
                             </li class="list-group-item bg-transparent border-0 p-0 mb-2">
                             <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-                                <a href="#" target="_blank"><i class="fa fa-facebook mr-1"></i> Facebook</a>
+                                <a href="#" target="_blank"><i class="fab fa-facebook mr-1"></i> Facebook</a>
                             </li>
                             <li class="list-group-item bg-transparent border-0 p-0 mb-2">
-                                <a href="#" target="_blank"><i class="fa fa-youtube mr-1"></i> YouTube</a>
+                                <a href="#" target="_blank"><i class="fab fa-youtube mr-1"></i> YouTube</a>
+                            </li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2">
+                                <a href="tel:+12127290610" ><i class="fas fa-phone mr-1"></i> +12127290610</a>
+                            </li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2">
+                                <a href="mailto:sadaqahusa@gmail.com" target="_blank"><i class="fas fa-at mr-1"></i> sadaqahusa@gmail.com</a>
                             </li>
                         </ul>
                     </div>

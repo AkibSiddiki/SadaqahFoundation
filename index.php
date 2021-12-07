@@ -46,9 +46,9 @@
 
     <?php echo $sCSSBootStrap;
     echo $sCSSFontAwesome;
-    echo $sCSSEMM;
     echo $sCSSSolaimanLipi;
     echo $sCSSBootstrapIcon;
+    echo $sCSSEMM;
     ?>
 </head>
 
@@ -110,10 +110,10 @@
                             <h4>How can you help?</h4>
                             <p>We are always looking for your kind donations to propel our humanitarian works. For donating our current projects. Scan the QR code for knowing donating in our Qurbani project.
                                 Our goal is to facilitate people who are affected by cyclone Amphan and Rohingya community with your Qurbani donation. If you think you can contribute something for bringing happiness for them in this Eid, please donate.</p>
-                        </div>
-                        <div class="row d-flex justify-content-center align-items-center">
-                            <div class="col-3 p-1"><img src="<?php echo $sSiteURL; ?>media/imgAll/QR-code.webp" class="img-fluid img100" alt=""></div>
-                            <div class="col-3 p-1"><a href="#"><img src="<?php echo $sSiteURL; ?>media/imgAll/LG-logo.png" class="img-fluid img100" alt=""></a></div>
+                            <div class="row d-flex justify-content-center align-items-center">
+                                <div class="col-3 p-1"><img src="<?php echo $sSiteURL; ?>media/imgAll/QR-code.webp" class="img-fluid img100" alt=""></div>
+                                <div class="col-3 p-1"><a href="#"><img src="<?php echo $sSiteURL; ?>media/imgAll/LG-logo.png" class="img-fluid img100" alt=""></a></div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -353,6 +353,7 @@
                 <div class="row py-5 d-flex align-items-center ">
                     <div class="col-sm-6 text-center">
                         <h3 class="title">Be come a Hero By Helping Others</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam dolorum in dolor ipsum assumenda doloremque itaque consequuntur ex numquam!</p>
                         <a href="#" class="btn btn-light" type="button">Be a Volunteer</a>
                         <a href="#" class="btn btn-light" type="button">Apply For Job</a>
                     </div>
@@ -369,22 +370,22 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="row pb-5">
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-1.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-2.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-3.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-4.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-5.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-6.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-1.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-2.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-3.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-4.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-5.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-6.jpg" alt=""></a></div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row pb-5">
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-7.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-8.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-9.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-10.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-11.jpg" alt=""></a></div>
-                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg"src="<?php echo $sSiteURL; ?>media/imgAll/c-12.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-7.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-8.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-9.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-10.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-11.jpg" alt=""></a></div>
+                                <div class="col-sm-4"><a href="#"><img class="img-fluid img100 galleryImg" src="<?php echo $sSiteURL; ?>media/imgAll/c-12.jpg" alt=""></a></div>
                             </div>
                         </div>
                     </div>
