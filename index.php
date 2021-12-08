@@ -81,9 +81,9 @@
             </div>
         </section>
         <section class="aboutSection">
-            <div class="container py-5">
-                <h3 class="secTitle text-center"> <a href="#"> <i class="fas fa-grip-lines"></i> About Us <i class="fas fa-grip-lines"></i> </a> </h3>
-                <div class="row gx-5 mt-5">
+            <div class="container pb-5">
+                <h3 class="secTitle py-5 text-center"> <a href="#"> <i class="fas fa-grip-lines"></i> About Us <i class="fas fa-grip-lines"></i> </a> </h3>
+                <div class="row gx-5">
                     <div class="col-sm-6 border-End">
                         <div class="aboutDiv">
                             <h4>Vision</h4>
@@ -120,10 +120,10 @@
             </div>
         </section>
         <section class="progSection">
-            <div class="container">
+            <div class="container pb-5">
                 <h3 class="secTitle text-center py-5"> <a href="#"> <i class="fas fa-grip-lines"></i> Our Program <i class="fas fa-grip-lines"></i> </a> </h3>
                 <div class="ourProgram">
-                    <div class="row gx-5 pb-5">
+                    <div class="row gx-5">
                         <div class="col-sm-4 border-bottom border-secondary">
                             <a href="#">
                                 <div class="programs">
@@ -183,9 +183,9 @@
             </div>
         </section>
         <section class="RecentAppealsSection">
-            <div class="container py-5">
-                <h3 class="secTitle text-center"> <a href="#"> <i class="fas fa-grip-lines"></i> Recent appeals <i class="fas fa-grip-lines"></i> </a> </h3>
-                <div class="row mt-5">
+            <div class="container pb-5">
+                <h3 class="secTitle py-5 text-center"> <a href="#"> <i class="fas fa-grip-lines"></i> Recent appeals <i class="fas fa-grip-lines"></i> </a> </h3>
+                <div class="row">
                     <div class="col-sm-4 mb-4">
                         <a href="#">
                             <div class="card shadow">
@@ -274,8 +274,8 @@
             </div>
         </section>
         <section class="ourImpactSection">
-            <div class="container">
-                <div class="row py-5">
+            <div class="container py-5">
+                <div class="row">
                     <div class="col-sm-6">
                         <img src="<?php echo $sSiteURL; ?>media/imgAll/earth.png" class="img-fluid img100 imgR" alt="">
                     </div>
@@ -314,9 +314,9 @@
             </div>
         </section>
         <section class="testimonialsSection">
-            <div class="container">
+            <div class="container pb-5">
                 <h3 class="secTitle text-center py-5"> <a href="#"> <i class="fas fa-grip-lines"></i> Testimonials <i class="fas fa-grip-lines"></i> </a> </h3>
-                <div id="carouselExampleIndicators" class="carousel slide pb-5" data-bs-ride="carousel">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item text-center active">
                             <img src="<?php echo $sSiteURL; ?>media/imgAll/dp-1.webp" class="img-fluid img100 testimonialImg" alt="">
@@ -349,8 +349,8 @@
             </div>
         </section>
         <section class="findHeroSection">
-            <div class="container">
-                <div class="row py-5 d-flex align-items-center ">
+            <div class="container py-5">
+                <div class="row d-flex align-items-center ">
                     <div class="col-sm-6 text-center">
                         <h3 class="title">Be come a Hero By Helping Others</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam dolorum in dolor ipsum assumenda doloremque itaque consequuntur ex numquam!</p>
@@ -364,7 +364,7 @@
             </div>
         </section>
         <section class="photoGallerySection">
-            <div class="container">
+            <div class="container pb-5">
                 <h3 class="secTitle text-center py-5"> <a href="#"> <i class="fas fa-grip-lines"></i> Photo Gallery <i class="fas fa-grip-lines"></i> </a> </h3>
                 <div id="carouselExampleControls2" class="carousel slide carousel-fade" data-bs-ride="carousel">
                     <div class="carousel-inner">
@@ -391,6 +391,38 @@
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span> </button>
+                </div>
+            </div>
+        </section>
+        <section class="workLocationSection">
+            <div class="container pb-5">
+                <h3 class="secTitle text-center py-5"> <a href="#"> <i class="fas fa-grip-lines"></i> Where We Work <i class="fas fa-grip-lines"></i> </a> </h3>
+                <div class="row">
+                    <div class="col-12">
+                        <ul>
+                            <li>Afghanistan</li>
+                            <li>Azad Kashmir</li>
+                            <li>Azerbaijan</li>
+                            <li>China</li>
+                            <li>Bangladesh</li>
+                            <li>Cambodia</li>
+                            <li>Iraq</li>
+                            <li>Japan</li>
+                            <li>Sri Lanka</li>
+                            <li>Pakistan</li>
+                            <li>India</li>
+                            <li>Philippines</li>
+                            <li>Indonesia</li>
+                            <li>Myanmar (Burma)</li>
+                            <li>Nepal</li>
+                            <li>Tajikistan</li>
+                            <li>Thailand</li>
+                            <li>Bolivia</li>
+                            <li>Brazil</li>
+                            <li>Haiti</li>
+                            <li>USA</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </section>
